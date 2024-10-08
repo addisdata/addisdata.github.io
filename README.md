@@ -1,7 +1,7 @@
 ## About me
 I've got more than 20 years of work experience in data analytics and reporting. Currently, I'm working as *Planning & Business Development Department Head* at a company which is located in Ethiopia. The Company is engaged in the importation and supply of refined petroleum products for sale in the local market.
 
-Through online training and self-taught endeavors, I've acquired pertinent skills in relation to data analytics, backend web development, and mobile app development.
+Through online training and self-taught endeavors, I've acquired skills that help me to perform data analytics tasks.
 
 Below, I list down some of the projects that I accomplished as follows:
 
@@ -25,8 +25,6 @@ The following are....
 - *Frontend web development technologies* - HTML5, CSS3, JavaScript, TypeScript
 - *Data analytics and visualization technologies* - MS Power BI, Python, R, NumPy, Pandas, Matplotlib, Seaborn, Plotly  
 - *Database systems* - SQL(SQL Server, PostgreSQL, SQLite, MySQL), NoSQL(Firebase, MongoDB)
-- *Backend web development frameworks* - Node.js, Express.js, ejs, Prisma ORM
-- *Mobile app development tools* - Dart, Flutter
 - *Version control system* - Git, Github
 - *Operating systems* - Windows 11, Linux (Ubuntu) 
 
