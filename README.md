@@ -1,4 +1,3 @@
-# addisdata.github.io
 ## About me
 I've got more than 20 years of work experience in data analytics and reporting. Currently, I'm working as *Planning & Business Development Department Head* at a company which is located in Ethiopia. The Company is engaged in the importation and supply of refined petroleum products for sale in the local market.
 
